@@ -1,0 +1,10 @@
+
+Le premier nombre est : 41
+Le deuxieme nombre est : 52
+ La somme des deux nombres est4152
+Le premier nombre est : 14
+Le deuxieme nombre est : 58
+ La somme des deux nombres est : 72
+Le premier nombre est : 52
+Le deuxieme nombre est : 84
+La somme des deux nombres est : 136

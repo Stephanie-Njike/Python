@@ -1,0 +1,3 @@
+Mon premier fichier
+Mon premier fichier deuxieme ligne
+Ma variable = 25
